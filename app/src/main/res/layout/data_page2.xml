@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/hime" >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="-340dp"
+        android:layout_marginTop="19dp"
+        android:src="@drawable/Vector_coba" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="360dp"
+        android:layout_marginTop="-30dp"
+        android:src="@drawable/user_coba" />
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="318dp"
+        android:layout_marginTop="-30dp"
+        android:src="@drawable/notif_coba" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/frame_coba"
+        android:layout_marginStart="-180dp"
+        android:layout_marginTop="70dp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/homee_2"
+        android:layout_marginStart="-175dp"
+        android:layout_marginTop="70dp" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/homee_3"
+        android:layout_marginStart="180dp"
+        android:layout_marginTop="-370dp"/>
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/homee_4"
+        android:layout_marginStart="180dp"
+        android:layout_marginTop="70dp"
+        />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/home1_cobaa"
+        android:layout_marginStart="-180dp"
+        android:layout_marginTop="-320dp"
+        />
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/mapss_2"
+        android:layout_marginStart="95dp"
+        android:layout_marginTop="169dp"
+        />
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="270dp"
+        android:layout_marginTop="-270dp"
+        android:src="@drawable/towerrr"
+        />
+
+    <ImageView
+        android:id="@+id/imageView13"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginStart="260dp"
+        android:layout_marginTop="150dp"
+        android:src="@drawable/project_home" />
+
+    <ImageView
+        android:id="@+id/imageView14"
+        android:layout_width="450dp"
+        android:layout_height="200dp"
+        android:src="@drawable/garis_coba" />
+
+    <ImageView
+        android:id="@+id/imageView15"
+        android:layout_width="200dp"
+        android:layout_height="55dp"
+        android:layout_marginStart="110dp"
+        android:layout_marginTop="-90dp"
+        android:src="@drawable/setting_coba" />
+
+    <ImageView
+        android:id="@+id/imageView16"
+        android:layout_width="200dp"
+        android:layout_height="55dp"
+        android:layout_marginStart="110dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/exit_coba" />
+
+
+</LinearLayout>

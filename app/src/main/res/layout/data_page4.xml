@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/cobaaa">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/reeeec_coba"
+        android:layout_marginTop="635dp"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:layout_marginStart="-270dp"
+        android:layout_marginTop="-56dp"
+        android:src="@drawable/homee_coba" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="41dp"
+        android:layout_marginStart="-70dp"
+        android:layout_marginTop="-40dp"
+        android:src="@drawable/mapss_icon" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="-40dp"
+        android:src="@drawable/towerr_coba" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_marginStart="300dp"
+        android:layout_marginTop="-40dp"
+        android:src="@drawable/userr_coba" />
+
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="7dp"
+        android:layout_marginTop="-630dp"
+        android:src="@drawable/rectower_coba" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="350dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="-86dp"
+        android:fontFamily="sans-serif"
+        android:text="Let's Find The Project!"
+        android:textColor="@color/white"
+        android:textSize="22dp" />
+
+    <ImageView
+        android:id="@+id/imageView19"
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        android:src="@drawable/ss1_coba"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="76dp" />
+
+    <ImageView
+        android:id="@+id/imageView20"
+        android:layout_width="70dp"
+        android:layout_height="80dp"
+        android:src="@drawable/ran_coba"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="-3dp"
+        />
+
+    <ImageView
+        android:id="@+id/imageView21"
+        android:layout_width="70dp"
+        android:layout_height="80dp"
+        android:src="@drawable/ss2_coba"
+        android:layout_marginStart="125dp"
+        android:layout_marginTop="-76dp"
+        />
+
+    <ImageView
+        android:id="@+id/imageView22"
+        android:layout_width="70dp"
+        android:layout_height="80dp"
+        android:src="@drawable/ss3_coba"
+        android:layout_marginStart="210dp"
+        android:layout_marginTop="-80dp"
+        />
+
+    <ImageView
+        android:id="@+id/imageView23"
+        android:layout_width="70dp"
+        android:layout_height="80dp"
+        android:src="@drawable/ss4_coba"
+        android:layout_marginStart="300dp"
+        android:layout_marginTop="-80dp"
+        />
+
+
+</LinearLayout>
